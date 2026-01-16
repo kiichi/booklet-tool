@@ -6,6 +6,13 @@ This project provides **two ways** to convert a normal PDF into a **Saddle Stitc
 1. **Python CLI** – deterministic, print-shop safe
 2. **Static HTML + JavaScript Web App** – drag & drop, runs entirely in the browser
 
+👉 **Start here:**  
+**[Open the Booklet Builder Web App → `web/booklet.html`](./web/booklet.html)**  
+
+*(Drag & drop a PDF to generate a saddle-stitch / booklet-printable PDF. No setup required.)*
+
+---
+
 Primary target:  
 **US / EU left-open booklets** (first sheet: **left = last page, right = first page**)
 
