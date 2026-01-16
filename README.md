@@ -7,7 +7,7 @@ This project provides **two ways** to convert a normal PDF into a **Saddle Stitc
 2. **Static HTML + JavaScript Web App** – drag & drop, runs entirely in the browser
 
 👉 **Start here:**  
-**[Open the Booklet Builder Web App → `web/booklet.html`](./web/booklet.html)**  
+**[Open the Booklet Builder Web App ](./booklet.html)**  
 
 *(Drag & drop a PDF to generate a saddle-stitch / booklet-printable PDF. No setup required.)*
 
